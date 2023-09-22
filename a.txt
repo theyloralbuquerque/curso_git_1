@@ -7,3 +7,4 @@ arquivo
 enviando
 a funcionalidade
 X
+Enviando a funcionalidade b
