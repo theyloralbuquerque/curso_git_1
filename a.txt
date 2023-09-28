@@ -7,3 +7,6 @@ arquivo
 enviando
 a funcionalidade
 x
+Diff
+de
+Arquivo
